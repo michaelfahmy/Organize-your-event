@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">The Secret</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_slawat">Slawat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_text_screen">TextScreen</string>
+
+    <string name="baker">
+
+
+
+    </string>
+
+    <string name="ghrob">
+
+
+
+
+    </string>
+
+    <string name="noom">
+
+
+
+
+    </string>
+
+</resources>
