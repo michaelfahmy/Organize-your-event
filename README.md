@@ -1,1 +1,3 @@
-# Organize-your-event
+# Organize your event
+
+Event agenda organizer demo
